@@ -1,0 +1,6 @@
+{
+  "name": "ધોરણ ૬ ગુજરાતી - સમાનાર્થી શબ્દો જોડકાં રમત",
+  "description": "ધોરણ ૬ ગુજરાતી 'પલાશ' (નવો અભ્યાસક્રમ GCERT) પાઠ્યપુસ્તક આધારિત પાઠ પ્રમાણે સમાનાર્થી શબ્દોની જોડકાં રમત, ફુગ્ગા ફોડવાની મજા અને વર્કશીટ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
